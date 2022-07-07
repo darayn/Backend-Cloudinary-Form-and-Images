@@ -1,0 +1,29 @@
+{
+  "name": "backend-cloudinary-form-and-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darayn/Backend-Cloudinary-Form-and-Images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darayn/Backend-Cloudinary-Form-and-Images/issues"
+  },
+  "homepage": "https://github.com/darayn/Backend-Cloudinary-Form-and-Images#readme",
+  "dependencies": {
+    "cloudinary": "^1.30.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
