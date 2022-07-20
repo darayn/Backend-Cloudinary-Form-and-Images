@@ -1,3 +1,5 @@
 GET form is used to submit just a request like google form, searching forms on any website. There are no sensitive im=nformation being thrown by the get type of the form.
 POST -Form - the data sennt here is hidden. Being passed it is mostly read by server.
 Upload File/Files(Images, Videos) - To uploead single/multiple Files
+
+
